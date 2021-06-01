@@ -73,14 +73,16 @@ Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f
 
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
 
-### Optional Evaluation and Revision History 
+### Evaluation and Revision History 
 
-**Cognitive Walkthrough**
+### Cognitive Walkthrough**
 
-### Goal
+**Goal**
+
 The goal for this user's cognitive walkthrough is to complete two main tasks regarding the prototype for the application, Audiobooks HQ. The tasks include (1) navigating the search bar of the app and (2) organizing any downloaded or purchased content. 
 
-### Tasks 
+**Tasks**
+
 This is the script that I had set up for my user to help guide her through the navigation of the application. 
 
 **Task 1: Navigating the Search Bar**
@@ -96,7 +98,8 @@ This is the script that I had set up for my user to help guide her through the n
 * if clicked on "My Books", select one of the categories 
 * once category selected, scroll through options or click "See More" to see more options
 
-### Findings
+**Findings**
+
 **1) Will the user try and achieve the right outcome?**
 
  (Is the interface based on the assumptions about a user’s level of experience or knowledge)
@@ -131,7 +134,9 @@ Some direct quotes from the walkthrough:
         * "I think there could be loading pages included in the prototype to enhance the user-friendliness, but I don't think not including them detracted from this experience"
         * "The back button doesn't seem to be working"
 
-**Impression Test**
+
+
+### Impression Test
 
 The participant did not want to be video or audio recorded, but I walked them through an initial impression test and documented some of her reactions that I found to be most important:
 * "I think that I would like an addition of different colors of orange to add more dimension"
@@ -143,11 +148,15 @@ The participant did not want to be video or audio recorded, but I walked them th
 
 **Summary:** I found her impression test to be incredibly helpful, as she was also the participant in the contextual inquiry assignment. She definitely noticed a lot of improvements compared to the original app; when she first used the app, she was very confused on how to initially search for books, but she noted how much easier it was to do that with this prototype. I also appreciated her comments on the aesthetics of the app, such as with the slight changes in the orange color scheme and the change in the layout for the search bar page. I will definitely take these into account and refine the prototype further for enhancements. 
 
-**Accessibility Audit**
+
+
+### Accessibility Audit
 
 ![Accessibility Audit](https://github.com/laudanhosseini/Final-Project-/blob/690322e05b28acbbe31f5f921266db422ea452e9/AA.png)
 
 For more information on the Accessibility Audit, click [here](https://docs.google.com/presentation/d/1ZY9l6xY-tQCDYuffejI8UAapy47IsKPAyA9uRLm7jrE/edit?usp=sharing) 
 
 ### Pitch Video
+
+
 ### Conclusion: what did you learn throughout the process?
