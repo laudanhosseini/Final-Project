@@ -41,7 +41,7 @@ The two personas I developed are **Mary Rogers, a curious and intelligent Art Hi
 
 Click [here](	https://github.com/laudanhosseini/DH110-04/blob/5a19989d369c303a17fa5a5b69ee9e6ceca8af82/README.md ) for full access to both personas. 
 
-### Wireframe and Graphic Design Element Variation (Assignment #5 and part of #6)
+### Wireframe and Graphic Design Element Variation 
 
 These wireframes are my initial graphic designs of what I would want my high-fidelity prototype to look like. To make these, I sketched out the pages of Audiobooks HQ and drew arrows to create my wireflow that would complete the tasks **(1) Navigating the Search Bar** and **(2) Organization of Content**, given the existing features of the app. 
 
@@ -53,8 +53,13 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
-### Low-Fidelity Prototype (Wireflow and Assignment #6)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
+
+
+### Low-Fidelity Prototype 
+
+Click [here] for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
+
 ### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
 Summary statement and link to or an embedded prototype
 ### Optional Evaluation and Revision History 
