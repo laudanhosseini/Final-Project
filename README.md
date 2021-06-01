@@ -39,6 +39,9 @@ UX storytelling helps us better understand the wants and needs of consumers for 
 
 The two personas I developed are **Mary Rogers, a curious and intelligent Art History Professor,** and **David Muñoz, a loving dad with a desire for relaxing reads**. 
 
+![Mary Rogers 1](https://github.com/laudanhosseini/DH110-04/blob/03ef1873928e6cdd8b2b206f32eb6502dcc1d56d/MaryRogers1%202.jpg)
+![Mary Rogers 2](https://github.com/laudanhosseini/DH110-04/blob/97ccbb7f1183a461d00f714a1bb83e88ebe0cac1/Mary%20Rogers%202.jpg) 
+
 Click [here](	https://github.com/laudanhosseini/DH110-04/blob/5a19989d369c303a17fa5a5b69ee9e6ceca8af82/README.md ) for full access to both personas. 
 
 ### Wireframe and Graphic Design Element Variation 
@@ -67,7 +70,10 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
 ### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
-Summary statement and link to or an embedded prototype
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fcd5HgXbY3RD3viLLKMnL7C%2FFinal-High-Fidelity-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+[Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
+
 ### Optional Evaluation and Revision History 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 ### Pitch Video
