@@ -74,6 +74,78 @@ Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
 
 ### Optional Evaluation and Revision History 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+**Cognitive Walkthrough**
+
+### Goal
+The goal for this user's cognitive walkthrough is to complete two main tasks regarding the prototype for the application, Audiobooks HQ. The tasks include (1) navigating the search bar of the app and (2) organizing any downloaded or purchased content. 
+
+### Tasks 
+This is the script that I had set up for my user to help guide her through the navigation of the application. 
+
+**Task 1: Navigating the Search Bar**
+* click to enter the application 
+* click either on "Find Books Now!", "Bookstore", "See All" under the New Noteworthy, or plus sign at the bottom of the homepage
+* click on either "Search", one of the letters of the alphabets, or one of the filters listed 
+* if clicked on "Search", type in the title of the book desired or the author 
+* if clicked on one of the filters, scroll through to find the desired book 
+
+**Task 2: Organizing Downloaded or Purchased Content**
+* click to enter the application 
+* click either on "My Books", "See All" next to New + Noteworthy, or "See All" next to Made for You
+* if clicked on "My Books", select one of the categories 
+* once category selected, scroll through options or click "See More" to see more options
+
+### Findings
+**1) Will the user try and achieve the right outcome?**
+
+ (Is the interface based on the assumptions about a user’s level of experience or knowledge)
+    
+  * Yes, the user is a college student female who is fairly knowledgable in technology and reading heavy texts for her classes. While she does not fit the exact target audience (senior citizens), she has the same reading level as the target audience and should be able to complete these tasks at a faster rate than would a senior citizen. 
+    
+**2) Will the user notice that the correct action is available to them?**
+
+(Is there any hidden or obscured controls?)
+
+  * The user should be able to find the buttons needed fairly easily, as most of them are either in large text or found on the homepage. The only issue I can predict occurring is the user struggling to "swipe" through the sections "Made for You" and "New + Noteworthy" on the homepage, as this interaction is different from the usual tap that the user has to do to get to other tabs. The swipe feature is more subtle and thus can be harder to figure out. 
+
+**3) Will the user associate the correct action with the outcome they expect to achieve?**
+
+(Are the instruction/button labels clear to understand?)
+
+  * Yes, the buttons are fairly labeled in large text or worded in a way that is clear to the user. For instance, the button "Search" or "Find books now!" clearly points to the reader that if clicked on, these buttons will help find the books you are looking for. 
+
+**4) If the correct action is performed; will the user see that progress is being made towards their intended outcome?**
+
+(Does the interface provide proper feedbacks? Any missing feedbacks or any moment that lacks consistency?)
+
+  * Currently, this interactive prototype does not have any "loading pages" included in the system, so the user can potentially lack in having visual updates, such as with download or loading progress. Everything else, however, clearly guides the user through the steps needed to be taken to achieve the desired goals. 
+    
+As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). She also found that the arrow buttons to go back to other pages were faulty and only some were working and only some of the time. This is something I definitely would want to look into and fix for the future. Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
+
+Some direct quotes from the walkthrough: 
+
+        * "I would rate the user-friendliness of the tasks an 8.5 out of 10, solely because the swiping part was the most difficult. Everything else was really easy to figure out"
+        * "I liked how there were multiple buttons on the homepage that took me to the search engine"
+        * "I liked how there were pictures included of the books because that makes it easier to recall when searching" 
+        * "I think there could be loading pages included in the prototype to enhance the user-friendliness, but I don't think not including them detracted from this experience"
+        * "The back button doesn't seem to be working"
+
+**Impression Test**
+
+The participant did not want to be video or audio recorded, but I walked them through an initial impression test and documented some of her reactions that I found to be most important:
+* "I think that I would like an addition of different colors of orange to add more dimension"
+* "I really like how you put the pictures of books on the homepage and on those buttons"
+* "I would maybe choose a different layout for the last page, I like how you separate the filters into buttons but I would maybe mimick the layout as the page with the buttons for organizing content"
+* "This is now definitely easier to see how to search for something than the first time you showed me the application"
+* "I like the inclusion of the "Add New" button"
+* "I would maybe use a different plus sign on the homepage because it is bulky compared to the rest of the aesthetic"
+
+**Summary:** I found her impression test to be incredibly helpful, as she was also the participant in the contextual inquiry assignment. She definitely noticed a lot of improvements compared to the original app; when she first used the app, she was very confused on how to initially search for books, but she noted how much easier it was to do that with this prototype. I also appreciated her comments on the aesthetics of the app, such as with the slight changes in the orange color scheme and the change in the layout for the search bar page. I will definitely take these into account and refine the prototype further for enhancements. 
+
+**Accessibility Audit**
+
+![Accessibility Audit](
+
 ### Pitch Video
 ### Conclusion: what did you learn throughout the process?
