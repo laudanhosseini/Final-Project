@@ -54,7 +54,10 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
 Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
+**Task 1: Navigating the Search Bar** 
 
+**Task 2: Organizing Downloaded Content**
+[Wireframe Final](https://github.com/laudanhosseini/Final-Project-/blob/6bda43cd76a1337581064f72f532bf0de475313a/Wireframe%20Final.png)
 
 ### Low-Fidelity Prototype 
 
