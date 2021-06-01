@@ -145,7 +145,9 @@ The participant did not want to be video or audio recorded, but I walked them th
 
 **Accessibility Audit**
 
-![Accessibility Audit](
+![Accessibility Audit](https://github.com/laudanhosseini/Final-Project-/blob/690322e05b28acbbe31f5f921266db422ea452e9/AA.png)
+
+For more information on the Accessibility Audit, click [here](https://docs.google.com/presentation/d/1ZY9l6xY-tQCDYuffejI8UAapy47IsKPAyA9uRLm7jrE/edit?usp=sharing) 
 
 ### Pitch Video
 ### Conclusion: what did you learn throughout the process?
