@@ -64,7 +64,7 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 ### Low-Fidelity Prototype 
 
-Click [here] for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
+Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
 ### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
 Summary statement and link to or an embedded prototype
