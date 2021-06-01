@@ -26,7 +26,7 @@ Click [here](https://drive.google.com/file/d/1-_fE2f_UnPX5wL8JABr9_cqWqDbBE0aQ/v
 
 Reflecting on the UT session, I found that the participant mainly struggled with finding the search bar, which is probably one of the most important features of this application. The user must be able to have strong filters and clear labels such that the user can find the reading he/she is looking for as fast as possible. Thus, when this issue kept arising, it showed me that this feature needs to be significantly changed to make it more user-friendly. 
 
-### User Research (Contextual Inquiry and Assignment #3)
+### User Research 
 
 The Contextual Inquiry is a methodology in prototype testing that helps the creator better understand target audiences and behavioral tasks for a particular website/application. In this scenario, I interviewed a participant about the Audiobooks HQ application to see what usability issues came up when trying to complete tasks and to understand the users' reading habits. This assignment gave me a lot more insight about how to improve the structual organization of the app, how to enhance the aesthetics, and which features to add to make it more user-friendly. 
 
@@ -34,9 +34,25 @@ Click [here](https://github.com/laudanhosseini/DH110-03/blob/6d0233b3c4941b23b69
 
 Throughout the process, I saw that the user really emphasized her need for efficient online programs due to her demanding medical classes and the fact that college is fully remote currently. I found that she would have liked better organization on the homepage of the app, as it was very overwhelming and hard to navigate at first glance. She especially struggled with finding the search bar, as she was not sure what the icons for the Bookstores meant or if they were clickable; this was a main issue that the participant in the UT had as well. This gave me a lot of insight on adding additional tabs for the homepage instead of immediately jumping to the user's library of content, adding more filters for the search bar, and making buttons more clearly labeled on the hompage. 
 
-### UX Storytelling (Persona, Scenario, Assignment #4)
-Summary and link to your assignment folder
+### UX Storytelling 
+UX storytelling helps us better understand the wants and needs of consumers for different websites, programs, or applications. By understanding the goals, motivations, challenges, and overall stories of potential users, we are able to understand their perceptions and enhance usability/accessibility. For this project, I am creating two personas and empathy maps for an online reading platform, such as Audible or Audiobooks HQ. I wanted to build one persona around the aspect of improving the advanced tool bar so that users can efficiently find the exact texts they are looking for as fast as possible. I wanted to build a second persona in order to tackle the structural and organizational issues of reading applications, namely in organizing the users' downloaded texts in a more sensible and interactive way.
+
+The two personas I developed are **Mary Rogers, a curious and intelligent Art History Professor,** and **David Muñoz, a loving dad with a desire for relaxing reads**. 
+
+Click [here](	https://github.com/laudanhosseini/DH110-04/blob/5a19989d369c303a17fa5a5b69ee9e6ceca8af82/README.md ) for full access to both personas. 
+
 ### Wireframe and Graphic Design Element Variation (Assignment #5 and part of #6)
+
+These wireframes are my initial graphic designs of what I would want my high-fidelity prototype to look like. To make these, I sketched out the pages of Audiobooks HQ and drew arrows to create my wireflow that would complete the tasks **(1) Navigating the Search Bar** and **(2) Organization of Content**, given the existing features of the app. 
+
+### Task 1: Navigating the Search Bar 
+![Task 1_Navigating the Seach Bar.jpg](https://github.com/laudanhosseini/DH110-05/blob/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
+
+### Task 2: Organization of Content
+![Task 2_Org of Content](https://github.com/laudanhosseini/DH110-05/blob/566bbf7495c4e8b1976b6bf1c48fa2eb9b1370b2/Task%202_%20Org%20of%20Content.jpg)
+
+Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
+
 ### Low-Fidelity Prototype (Wireflow and Assignment #6)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
 ### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
