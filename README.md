@@ -71,7 +71,6 @@ Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f
 
 ### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fcd5HgXbY3RD3viLLKMnL7C%2FFinal-High-Fidelity-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
 
 ### Optional Evaluation and Revision History 
