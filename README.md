@@ -9,6 +9,7 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor Analysis 
 
 **Heuristic Evaluation: Audiobooks HQ** 
+
 Nielson's Heuristic Evaluations was the first step taken towards the development of a user-friendly prototype, as it allows me to evaluate an already existing application that achieves similar goals and performs similar tasks. This would then help me in drafting my own version of the website/application for the purpose of increasing accessibility for senior citizens. 
 
 Click [here](https://github.com/laudanhosseini/DH110-01.git ) to find the full Heuristic Evaluation for the application located at the bottom of the page.
