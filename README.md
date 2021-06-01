@@ -56,6 +56,8 @@ Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e3
 Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
 
 **Task 1: Navigating the Search Bar** 
+![Wireframe Final*](https://github.com/laudanhosseini/Final-Project-/blob/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png)
+![Wireframe Final**](
 
 **Task 2: Organizing Downloaded Content**
 ![Wireframe Final](https://github.com/laudanhosseini/Final-Project-/blob/6bda43cd76a1337581064f72f532bf0de475313a/Wireframe%20Final.png)
