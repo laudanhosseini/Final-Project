@@ -57,7 +57,7 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 **Task 1: Navigating the Search Bar** 
 ![Wireframe Final*](https://github.com/laudanhosseini/Final-Project-/blob/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png)
-![Wireframe Final**](
+![Wireframe Final**](https://github.com/laudanhosseini/Final-Project-/blob/091a3cd5556b55f10faf224609a6ed7f3b870c58/Task%202%20Final%20Wireframe.png)
 
 **Task 2: Organizing Downloaded Content**
 ![Wireframe Final](https://github.com/laudanhosseini/Final-Project-/blob/6bda43cd76a1337581064f72f532bf0de475313a/Wireframe%20Final.png)
