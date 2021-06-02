@@ -77,15 +77,15 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 **Wireflow Screenshot 1:**
 
-[wireflow 1](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%201.png) 
+![wireflow 1](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%201.png) 
 
 **Wireflow Screenshot 1:**
 
-[wireflow 2](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%202.png)
+![wireflow 2](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%202.png)
 
 **Wireflow Screenshot 1:**
 
-[wireflow 3](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%203.png)
+![wireflow 3](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%203.png)
 
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
