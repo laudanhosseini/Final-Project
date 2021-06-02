@@ -60,14 +60,14 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 ![Task 1_Navigating the Seach Bar.jpg](https://raw.githubusercontent.com/laudanhosseini/DH11005/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
 
 ### Task 2: Organization of Content
-![Task 2_Org of Content](https://raw.githubusercontent.com/laudanhosseini/DH110-05/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg) 
+![Task 2_Org of Content](https://raw.githubusercontent.com/laudanhosseini/DH110-05/566bbf7495c4e8b1976b6bf1c48fa2eb9b1370b2/Task%202_%20Org%20of%20Content.jpg )
 
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
 Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
 
 **Task 1: Navigating the Search Bar** 
-![Wireframe Final*](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png) 
+![Wireframe Final*](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png )
 ![Wireframe Final**](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/091a3cd5556b55f10faf224609a6ed7f3b870c58/Task%202%20Final%20Wireframe.png)
 
 **Task 2: Organizing Downloaded Content**
