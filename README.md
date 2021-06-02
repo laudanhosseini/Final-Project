@@ -75,6 +75,18 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 ### Low-Fidelity Prototype 
 
+**Wireflow Screenshot 1:**
+
+[wireflow 1](https://github.com/laudanhosseini/Final-Project/blob/7da875a47326f708da5fb8668961801f0af08bca/wireflow%201.png)
+
+**Wireflow Screenshot 1:**
+
+[wireflow 2](
+
+**Wireflow Screenshot 1:**
+
+[wireflow 3](
+
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
 The key takeaway from this rough draft prototype was mainly about changing the color scheme, adding more frames, and fixing the "go back" symbols. The bright orange color schemes were too overwhelming from initial impression tests, and there were also not enough frames to fully experience the two desired tasks. While the user expressed that the existing frames were smooth to navigate, this prototype was too simplified to capture the full effect.
