@@ -14,7 +14,7 @@ I think that the main issues with the Audiobooks HQ app related to its aesthetic
 
 Nielson's Heuristic Evaluations was the first step taken towards the development of a user-friendly prototype, as it allows me to evaluate an already existing application that achieves similar goals and performs similar tasks. This would then help me in drafting my own version of the website/application for the purpose of increasing accessibility for senior citizens. 
 
-Click [here](https://github.com/laudanhosseini/DH110-01.git ) to find the full Heuristic Evaluation for the application located at the bottom of the page.
+Click [here](https://github.com/laudanhosseini/DH110-01.git) to find the full Heuristic Evaluation for the application located at the bottom of the page.
 
 After analyzing this application with all 10 heuristics, I noted that the overall efficiency, clarity, and aesthetic of the app can be greatly improved. The bright orange theme and fonts used are not very pleasurable to look at and make it less enticing to interact with the app's features. The font even hinders the readability of the app as a whole. In addition, a lot of the symbols used can be very confusing to new users, such as the "moon" symbol, which is meant for having the text be read for a set amount of time (ranging from 10 to 90 minutes). The app also does not have strong enough updates to users, such as if downloads fail or percentages of texts downloaded. The overall lack of clarity can raise a lot of questions for users; however, there is also not a strong help center set up in the settings. There are no video tutorials, FAQs, or a help search engine to assist users as efficiently as possible. These are the main criticisms of the app, which is why I wanted to set up the usability testing tasks around these issues.
 
@@ -41,8 +41,8 @@ UX storytelling helps us better understand the wants and needs of consumers for 
 
 The two personas I developed are **Mary Rogers, a curious and intelligent Art History Professor,** and **David Muñoz, a loving dad with a desire for relaxing reads**. 
 
-![Mary Rogers 1](https://github.com/laudanhosseini/DH110-04/blob/03ef1873928e6cdd8b2b206f32eb6502dcc1d56d/MaryRogers1%202.jpg)
-![Mary Rogers 2](https://github.com/laudanhosseini/DH110-04/blob/97ccbb7f1183a461d00f714a1bb83e88ebe0cac1/Mary%20Rogers%202.jpg) 
+![Mary Rogers 1](https://raw.githubusercontent.com/laudanhosseini/DH110-04/03ef1873928e6cdd8b2b206f32eb6502dcc1d56d/MaryRogers1%202.jpg)
+![Mary Rogers 2](https://raw.githubusercontent.com/laudanhosseini/DH110-04/97ccbb7f1183a461d00f714a1bb83e88ebe0cac1/Mary%20Rogers%202.jpg) 
 
 Click [here](	https://github.com/laudanhosseini/DH110-04/blob/5a19989d369c303a17fa5a5b69ee9e6ceca8af82/README.md ) for full access to both personas. 
 
@@ -55,21 +55,21 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 **(2) Organization of Content**, given the existing features of the app. 
 
 ### Task 1: Navigating the Search Bar 
-![Task 1_Navigating the Seach Bar.jpg](https://github.com/laudanhosseini/DH110-05/blob/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
+![Task 1_Navigating the Seach Bar.jpg](https://raw.githubusercontent.com/laudanhosseini/DH110-05/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
 
 ### Task 2: Organization of Content
-![Task 2_Org of Content](https://github.com/laudanhosseini/DH110-05/blob/566bbf7495c4e8b1976b6bf1c48fa2eb9b1370b2/Task%202_%20Org%20of%20Content.jpg)
+![Task 2_Org of Content](https://raw.githubusercontent.com/laudanhosseini/DH110-05/566bbf7495c4e8b1976b6bf1c48fa2eb9b1370b2/Task%202_%20Org%20of%20Content.jpg) 
 
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
 Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
 
 **Task 1: Navigating the Search Bar** 
-![Wireframe Final*](https://github.com/laudanhosseini/Final-Project-/blob/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png)
-![Wireframe Final**](https://github.com/laudanhosseini/Final-Project-/blob/091a3cd5556b55f10faf224609a6ed7f3b870c58/Task%202%20Final%20Wireframe.png)
+![Wireframe Final*](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/246bca643b34d36291c14748d40c6242fefddc2f/Task%202%20Final%20Wireframe%202.png) 
+![Wireframe Final**](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/091a3cd5556b55f10faf224609a6ed7f3b870c58/Task%202%20Final%20Wireframe.png)
 
 **Task 2: Organizing Downloaded Content**
-![Wireframe Final](https://github.com/laudanhosseini/Final-Project-/blob/6bda43cd76a1337581064f72f532bf0de475313a/Wireframe%20Final.png)
+![Wireframe Final](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/6bda43cd76a1337581064f72f532bf0de475313a/Wireframe%20Final.png)
 
 ### Low-Fidelity Prototype 
 
@@ -133,7 +133,7 @@ The participant did not want to be video or audio recorded, but I walked them th
 
 ### Accessibility Audit
 
-![Accessibility Audit](https://github.com/laudanhosseini/Final-Project-/blob/690322e05b28acbbe31f5f921266db422ea452e9/AA.png)
+![Accessibility Audit](https://raw.githubusercontent.com/laudanhosseini/Final-Project-/690322e05b28acbbe31f5f921266db422ea452e9/AA.png)
 
 For more information on the Accessibility Audit, click [here](https://docs.google.com/presentation/d/1ZY9l6xY-tQCDYuffejI8UAapy47IsKPAyA9uRLm7jrE/edit?usp=sharing) 
 
