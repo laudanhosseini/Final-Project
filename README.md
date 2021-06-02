@@ -2,11 +2,11 @@
 ## Laudan Hosseini, Digital Humanities 110: Final-Project
 ### Introduction
 
-Hi everyone! My name is Laudan, and today I am here to share with you all a very exciting project which is called “Speed Reads: Making Online Reading Faster, Easier, and more Accessible for Senior Citizens”. Over the past 10 weeks, I have spent time testing, drafting, and revising a high fidelity prototype that is geared towards creating an online reading platform that is user friendly for senior citizens. Initially, I discovered the app Audiobooks HQ, which is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases. The Audiobooks HQ app is designed to provide anyone access to over 500,000 texts that they can purchase and listen to. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volumes. This app is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them. Therefore, I wanted this project to focus on enhancing this application to provide more technological spaces for senior citizens, as creating user friendly apps for this group is often overlooked.  
+Hi everyone! My name is Laudan, and today I am here to share with you all a very exciting project which is called “Speed Reads: Making Online Reading Faster, Easier, and more Accessible for Senior Citizens”. Over the past 10 weeks, I have spent time testing, drafting, and revising a high fidelity prototype that is geared towards creating an online reading platform that is user friendly for senior citizens. Initially, I discovered the app Audiobooks HQ, which is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. It then separates your collection of books based on title, author, and recent purchases. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volume, and this is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them. Therefore, I wanted this project to focus on enhancing this application to provide more technological spaces for senior citizens, as creating user friendly apps for this group is often overlooked.  
 
 ### Clear Design Statement
 
-I think that the main issues with the Audiobooks HQ app related to its aesthetics, organization, and clarity of symbols and signals. As a result, I wanted to revamp this application to create a space that is more efficient at filtering out potential reads and that has a more structured library where you can store and access your downloaded reads as fast as possible. This idea is important to me because reading is a very commonplace activity among senior citizens, yet it can become awfully difficult at times to read the fine print on physical books. Technological platforms also seldom include senior citizens as target groups for accessibility and usability, so I wanted to make this more apparent for the online reading world. 
+I think that the main issues with the Audiobooks HQ app relates to its aesthetics, organization, and clarity of symbols and signals. As a result, I wanted to revamp this application to create a space that is more efficient at filtering out potential reads and that has a more structured library where you can store and access your downloaded reads as fast as possible. This idea is important to me because reading is a very commonplace activity among senior citizens, yet it can become awfully difficult at times to read the fine print on physical books. Technological platforms also seldom include senior citizens as target groups for accessibility and usability, so I wanted to make this more apparent for the online reading world. 
 
 ### Competitor Analysis 
 
@@ -64,6 +64,8 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
+Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md) for access to the graphic design element variations, which consists of three different color schemes I tested for the prototype. The variations are located under the "Design Variations" section of the website. 
+
 Using Figma, I transferred this rough sketch into a digitized format and combined both tasks onto a single wireframe (shown in multiple screenshots):
 
 **Task 1: Navigating the Search Bar** 
@@ -79,11 +81,11 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 ![wireflow 1](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%201.png) 
 
-**Wireflow Screenshot 1:**
+**Wireflow Screenshot 2:**
 
 ![wireflow 2](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%202.png)
 
-**Wireflow Screenshot 1:**
+**Wireflow Screenshot 3:**
 
 ![wireflow 3](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%203.png)
 
@@ -96,7 +98,7 @@ The key takeaway from this rough draft prototype was mainly about changing the c
 
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
 
-With this prototype, I conducted multiple impression tests and took in the comments of each user. For instance, I muted the orange colors in the aesthetics, I changed the plus sign on the homepage, I added more "go back" and "home" buttons on each tab, and made the "add new" button more clear. These changes revised any confusions that users experienced while navigating this app. 
+With this prototype, I conducted multiple impression tests and took in the comments of each user. For instance, I muted the orange colors in the aesthetics, I changed the plus sign on the homepage, I added more "go back" and "home" buttons on each tab, and made the "add new" button more clear. These changes revised any confusions that users experienced while navigating this app. More information on how to use the interactive prototype is located in the pitch video down below. 
 
 ### Evaluation and Revision History 
 
@@ -127,7 +129,7 @@ This is the script that I had set up for my user to help guide her through the n
 
 As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). She also found that the arrow buttons to go back to other pages were faulty and only some were working and only some of the time. This is something I definitely would want to look into and fix for the future. Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
 
-Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for more details on the walkthrough's findings, such as direct quotes from the participants and a Q&A section. This is located towards the bottom of the site under the "Cognitive Walkthrough" section.
+Click [here](	https://github.com/laudanhosseini/DH110-06/blob/69ab2ac726c6dda38709a0f4727154b41ea5b404/README.md  ) for more details on the walkthrough's findings, such as direct quotes from the participants and a Q&A section. This is located towards the bottom of the site under the "Cognitive Walkthrough" section.
 
 
 
@@ -154,5 +156,5 @@ For more information on the Accessibility Audit, click [here](https://docs.googl
 ### Pitch Video
 
 
-### Conclusion: what did you learn throughout the process?
+### Conclusion
 Reflecting on this project as a whole, I feel proud of my accomplishments, as this was the first interaction I have ever had with user experience design. There were surely a lot of learning curves with learning how to use programs like Github and Figma and with learning the basics of UX design as a whole. However, I think that all of my testing (UT, Contextual Inquiry, Cognitive Walkthrough, Impression Test) went much smoother than expected and I found these parts of the process to be incredibly helpful in creating my own prototype. I ended up revising a lot of my interactive prototype, such as by changing the color scheme, changing the “add” symbol on the homepage, adding more details like real books as examples for different search filters, and making sure that the “go back” buttons worked on the prototype. At the end of all of the revisions, I think that I have reached a place where users are able to access their downloaded material much easier, find the search bar and filters for books much easier, and have more freedom in organizing their downloaded content. Hopefully, this project is a call to action on the greater need for user-friendly applications for senior citizen groups in general. 
