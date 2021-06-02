@@ -24,7 +24,7 @@ The usability testing was the first step taken to getting actual feedback on the
 
 Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe-4bd216p-AAIbl58SPru5aoJfpVWMpisGud-uNfdTYsOgQQ/viewform?usp=sf_link) to access the link to the survey. 
 
-Click [here](https://drive.google.com/file/d/1-_fE2f_UnPX5wL8JABr9_cqWqDbBE0aQ/view?usp=sharing) to access the video recording of the UT session.
+Click [here][![Alternate Text]({image-url})]({https://drive.google.com/file/d/1-_fE2f_UnPX5wL8JABr9_cqWqDbBE0aQ/view?usp=sharing} "Link Title") to access the video recording of the UT session.
 
 Reflecting on the UT session, I found that the participant mainly struggled with finding the search bar, which is probably one of the most important features of this application. The user must be able to have strong filters and clear labels such that the user can find the reading he/she is looking for as fast as possible. Thus, when this issue kept arising, it showed me that this feature needs to be significantly changed to make it more user-friendly. 
 
