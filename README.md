@@ -75,9 +75,14 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
+The key takeaway from this rough draft prototype was mainly about changing the color scheme, adding more frames, and fixing the "go back" symbols. The bright orange color schemes were too overwhelming from initial impression tests, and there were also not enough frames to fully experience the two desired tasks. While the user expressed that the existing frames were smooth to navigate, this prototype was too simplified to capture the full effect.
+
+
 ### High-Fidelity Prototype 
 
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
+
+With this prototype, I conducted multiple impression tests and took in the comments of each user. For instance, I muted the orange colors in the aesthetics, I changed the plus sign on the homepage, I added more "go back" and "home" buttons on each tab, and made the "add new" button more clear. These changes revised any confusions that users experienced while navigating this app. 
 
 ### Evaluation and Revision History 
 
