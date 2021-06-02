@@ -96,7 +96,7 @@ The key takeaway from this rough draft prototype was mainly about changing the c
 
 ### High-Fidelity Prototype 
 
-[Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
+[Here](https://www.figma.com/proto/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=1%3A2&scaling=scale-down&page-id=0%3A1) is the link to the interactive prototype!
 
 With this prototype, I conducted multiple impression tests and took in the comments of each user. For instance, I muted the orange colors in the aesthetics, I changed the plus sign on the homepage, I added more "go back" and "home" buttons on each tab, and made the "add new" button more clear. These changes revised any confusions that users experienced while navigating this app. More information on how to use the interactive prototype is located in the pitch video down below. 
 
