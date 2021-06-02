@@ -2,10 +2,11 @@
 ## Laudan Hosseini, Digital Humanities 110: Final-Project
 ### Introduction
 
-The app Audiobooks HQ is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases. The Audiobooks HQ app is designed to provide anyone access to over 500,000 texts that they can purchase and listen to. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volumes. This app is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them.
+Hi everyone! My name is Laudan, and today I am here to share with you all a very exciting project which is called “Speed Reads: Making Online Reading Faster, Easier, and more Accessible for Senior Citizens”. Over the past 10 weeks, I have spent time testing, drafting, and revising a high fidelity prototype that is geared towards creating an online reading platform that is user friendly for senior citizens. Initially, I discovered the app Audiobooks HQ, which is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases. The Audiobooks HQ app is designed to provide anyone access to over 500,000 texts that they can purchase and listen to. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volumes. This app is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them. Therefore, I wanted this project to focus on enhancing this application to provide more technological spaces for senior citizens, as creating user friendly apps for this group is often overlooked.  
 
 ### Clear Design Statement
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+
+I think that the main issues with the Audiobooks HQ app related to its aesthetics, organization, and clarity of symbols and signals. As a result, I wanted to revamp this application to create a space that is more efficient at filtering out potential reads and that has a more structured library where you can store and access your downloaded reads as fast as possible. This idea is important to me because reading is a very commonplace activity among senior citizens, yet it can become awfully difficult at times to read the fine print on physical books. Technological platforms also seldom include senior citizens as target groups for accessibility and usability, so I wanted to make this more apparent for the online reading world. 
 
 ### Competitor Analysis 
 
@@ -80,7 +81,7 @@ Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f
 
 ### Evaluation and Revision History 
 
-### Cognitive Walkthrough**
+### Cognitive Walkthrough
 
 **Goal**
 
@@ -103,41 +104,11 @@ This is the script that I had set up for my user to help guide her through the n
 * if clicked on "My Books", select one of the categories 
 * once category selected, scroll through options or click "See More" to see more options
 
-**Findings**
+**Summary**
 
-**1) Will the user try and achieve the right outcome?**
-
- (Is the interface based on the assumptions about a user’s level of experience or knowledge)
-    
-  * Yes, the user is a college student female who is fairly knowledgable in technology and reading heavy texts for her classes. While she does not fit the exact target audience (senior citizens), she has the same reading level as the target audience and should be able to complete these tasks at a faster rate than would a senior citizen. 
-    
-**2) Will the user notice that the correct action is available to them?**
-
-(Is there any hidden or obscured controls?)
-
-  * The user should be able to find the buttons needed fairly easily, as most of them are either in large text or found on the homepage. The only issue I can predict occurring is the user struggling to "swipe" through the sections "Made for You" and "New + Noteworthy" on the homepage, as this interaction is different from the usual tap that the user has to do to get to other tabs. The swipe feature is more subtle and thus can be harder to figure out. 
-
-**3) Will the user associate the correct action with the outcome they expect to achieve?**
-
-(Are the instruction/button labels clear to understand?)
-
-  * Yes, the buttons are fairly labeled in large text or worded in a way that is clear to the user. For instance, the button "Search" or "Find books now!" clearly points to the reader that if clicked on, these buttons will help find the books you are looking for. 
-
-**4) If the correct action is performed; will the user see that progress is being made towards their intended outcome?**
-
-(Does the interface provide proper feedbacks? Any missing feedbacks or any moment that lacks consistency?)
-
-  * Currently, this interactive prototype does not have any "loading pages" included in the system, so the user can potentially lack in having visual updates, such as with download or loading progress. Everything else, however, clearly guides the user through the steps needed to be taken to achieve the desired goals. 
-    
 As the user completed these tasks, I found that most of my predictions were correct. The user struggled with finding the swipe portion of the "Made for You" and "New + Noteworthy" sections, but they did not seem to be phased by the lack of loading pages that were included in the prototype. I still think that moving forward, I would want to include some sort of progress signals, and I also maybe want to make the swipe feature more clear (either by changing the wording of the button or changing the font color). She also found that the arrow buttons to go back to other pages were faulty and only some were working and only some of the time. This is something I definitely would want to look into and fix for the future. Other than these suggestions, the user stated that she found the tasks very easy to complete and did so faster than predicted. 
 
-Some direct quotes from the walkthrough: 
-
-        * "I would rate the user-friendliness of the tasks an 8.5 out of 10, solely because the swiping part was the most difficult. Everything else was really easy to figure out"
-        * "I liked how there were multiple buttons on the homepage that took me to the search engine"
-        * "I liked how there were pictures included of the books because that makes it easier to recall when searching" 
-        * "I think there could be loading pages included in the prototype to enhance the user-friendliness, but I don't think not including them detracted from this experience"
-        * "The back button doesn't seem to be working"
+Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for more details on the walkthrough's findings, such as direct quotes from the participants and a Q&A section. This is located towards the bottom of the site under the "Cognitive Walkthrough" section.
 
 
 
