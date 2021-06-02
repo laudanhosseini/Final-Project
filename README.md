@@ -14,7 +14,7 @@ I think that the main issues with the Audiobooks HQ app related to its aesthetic
 
 Nielson's Heuristic Evaluations was the first step taken towards the development of a user-friendly prototype, as it allows me to evaluate an already existing application that achieves similar goals and performs similar tasks. This would then help me in drafting my own version of the website/application for the purpose of increasing accessibility for senior citizens. 
 
-![audiobooks HQ](https://github.com/laudanhosseini/Final-Project/blob/488718b270439e60b372171924eb43e8a0c6f0f2/download-7.jpg)
+![audiobooks HQ](https://rawgithubusercontent.com/laudanhosseini/Final-Project/blob/488718b270439e60b372171924eb43e8a0c6f0f2/download-7.jpg)
 
 Click [here](https://github.com/laudanhosseini/DH110-01.git) to find the full Heuristic Evaluation for the application located at the bottom of the page.
 
@@ -77,15 +77,15 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 **Wireflow Screenshot 1:**
 
-[wireflow 1](https://github.com/laudanhosseini/Final-Project/blob/7da875a47326f708da5fb8668961801f0af08bca/wireflow%201.png)
+[wireflow 1](https://rawgithubusercontent.com/laudanhosseini/Final-Project/blob/7da875a47326f708da5fb8668961801f0af08bca/wireflow%201.png)
 
 **Wireflow Screenshot 1:**
 
-[wireflow 2](https://github.com/laudanhosseini/Final-Project/blob/9d933da2372fb1b434e75620b468ea57fcbc98cd/wireflow%202.png)
+[wireflow 2](https://rawgithubusercontent.com/laudanhosseini/Final-Project/blob/9d933da2372fb1b434e75620b468ea57fcbc98cd/wireflow%202.png)
 
 **Wireflow Screenshot 1:**
 
-[wireflow 3](https://github.com/laudanhosseini/Final-Project/blob/aa3e39a568164721b55ea0b4c277420b3979087f/wireflow%203.png) 
+[wireflow 3](https://rawgithubusercontent.com/laudanhosseini/Final-Project/blob/aa3e39a568164721b55ea0b4c277420b3979087f/wireflow%203.png) 
 
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
