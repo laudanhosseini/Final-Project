@@ -77,7 +77,7 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 **Wireflow Screenshot 1:**
 
-[wireflow 1](https://rawgithubusercontent.com/laudanhosseini/Final-Project/blob/7da875a47326f708da5fb8668961801f0af08bca/wireflow%201.png)
+[wireflow 1](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/wireflow%201.png) 
 
 **Wireflow Screenshot 1:**
 
