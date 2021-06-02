@@ -155,6 +155,8 @@ For more information on the Accessibility Audit, click [here](https://docs.googl
 
 ### Pitch Video
 
+[Here](https://drive.google.com/file/d/1LxY_4LD1Hzutg7kpDE7JRoRNoH0oGDja/view?usp=sharing) is the link to the video presentation of the website and interactive prototype. 
+
 
 ### Conclusion
 Reflecting on this project as a whole, I feel proud of my accomplishments, as this was the first interaction I have ever had with user experience design. There were surely a lot of learning curves with learning how to use programs like Github and Figma and with learning the basics of UX design as a whole. However, I think that all of my testing (UT, Contextual Inquiry, Cognitive Walkthrough, Impression Test) went much smoother than expected and I found these parts of the process to be incredibly helpful in creating my own prototype. I ended up revising a lot of my interactive prototype, such as by changing the color scheme, changing the “add” symbol on the homepage, adding more details like real books as examples for different search filters, and making sure that the “go back” buttons worked on the prototype. At the end of all of the revisions, I think that I have reached a place where users are able to access their downloaded material much easier, find the search bar and filters for books much easier, and have more freedom in organizing their downloaded content. Hopefully, this project is a call to action on the greater need for user-friendly applications for senior citizen groups in general. 
