@@ -1,11 +1,12 @@
-# Audiobooks HQ: Making Reading More Accessible for Senior Citizens
+# Speed Reads: Making Online Reading More Accessible for Senior Citizens
 ## Laudan Hosseini, Digital Humanities 110: Final-Project
 ### Introduction
-What is the project about? The motivation of the project and possible contribution.
-The app Audiobooks HQ is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases.The Audiobooks HQ app is designed to provide anyone access to over 500,000 texts that they can purchase and listen to. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volumes. This app is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them.
+
+The app Audiobooks HQ is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases. The Audiobooks HQ app is designed to provide anyone access to over 500,000 texts that they can purchase and listen to. The user is able to downnload the text on the app and listen to it at varying speeds, playback times, and volumes. This app is especially favorable for groups that have the desire to read but do not have the eye strength, energy, or time to do so. This app hopes to make reading much more accessible, portable, and easy by having users to just listen to the text being read to them.
 
 ### Clear Design Statement
 What is the issue and Why do you think it is important to resolve that issue by your project? 
+
 ### Competitor Analysis 
 
 **Heuristic Evaluation: Audiobooks HQ** 
@@ -32,7 +33,7 @@ The Contextual Inquiry is a methodology in prototype testing that helps the crea
 
 Click [here](https://github.com/laudanhosseini/DH110-03/blob/6d0233b3c4941b23b696d0195aea992dd15c1feb/README.md ) for access to more information on the process, materials, and results of the contextual inquiry.
 
-Throughout the process, I saw that the user really emphasized her need for efficient online programs due to her demanding medical classes and the fact that college is fully remote currently. I found that she would have liked better organization on the homepage of the app, as it was very overwhelming and hard to navigate at first glance. She especially struggled with finding the search bar, as she was not sure what the icons for the Bookstores meant or if they were clickable; this was a main issue that the participant in the UT had as well. This gave me a lot of insight on adding additional tabs for the homepage instead of immediately jumping to the user's library of content, adding more filters for the search bar, and making buttons more clearly labeled on the hompage. 
+Throughout the process, I saw that the user really emphasized her need for efficient online programs due to her demanding medical classes and the fact that college is fully remote currently. I found that she would have liked better organization on the homepage of the app, as it was very overwhelming and hard to navigate at first glance. She especially struggled with finding the search bar, as she was not sure what the icons for the Bookstores meant or if they were clickable; this was a main issue that the participant in the UT had as well. This gave me a lot of insight on adding additional tabs for the homepage instead of immediately jumping to the user's library of content, adding more filters for the search bar, and making buttons more clearly labeled on the homepage. 
 
 ### UX Storytelling 
 UX storytelling helps us better understand the wants and needs of consumers for different websites, programs, or applications. By understanding the goals, motivations, challenges, and overall stories of potential users, we are able to understand their perceptions and enhance usability/accessibility. For this project, I am creating two personas and empathy maps for an online reading platform, such as Audible or Audiobooks HQ. I wanted to build one persona around the aspect of improving the advanced tool bar so that users can efficiently find the exact texts they are looking for as fast as possible. I wanted to build a second persona in order to tackle the structural and organizational issues of reading applications, namely in organizing the users' downloaded texts in a more sensible and interactive way.
@@ -46,7 +47,11 @@ Click [here](	https://github.com/laudanhosseini/DH110-04/blob/5a19989d369c303a17
 
 ### Wireframe and Graphic Design Element Variation 
 
-These wireframes are my initial graphic designs of what I would want my high-fidelity prototype to look like. To make these, I sketched out the pages of Audiobooks HQ and drew arrows to create my wireflow that would complete the tasks **(1) Navigating the Search Bar** and **(2) Organization of Content**, given the existing features of the app. 
+These wireframes are my initial graphic designs of what I would want my high-fidelity prototype to look like. To make these, I sketched out the pages of Audiobooks HQ and drew arrows to create my wireflow that would complete the tasks 
+
+**(1) Navigating the Search Bar** and 
+
+**(2) Organization of Content**, given the existing features of the app. 
 
 ### Task 1: Navigating the Search Bar 
 ![Task 1_Navigating the Seach Bar.jpg](https://github.com/laudanhosseini/DH110-05/blob/f6225df544f14d5494678695b599ff7ad613fd7e/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
@@ -69,7 +74,7 @@ Using Figma, I transferred this rough sketch into a digitized format and combine
 
 Click [here](https://github.com/laudanhosseini/DH110-06/blob/4f93c62d253e561c99f074c1f2c44831819ea722/README.md ) for the evaluation history and older versions of the wireframes and wireflows to note the revisions made (this will also be discussed later on).
 
-### High-Fidelity Prototype (Functional/Interactive Prototype, Assignment #7)
+### High-Fidelity Prototype 
 
 [Here](https://www.figma.com/file/cd5HgXbY3RD3viLLKMnL7C/Final-High-Fidelity-Prototype?node-id=0%3A1) is the link to the interactive prototype!
 
@@ -160,3 +165,4 @@ For more information on the Accessibility Audit, click [here](https://docs.googl
 
 
 ### Conclusion: what did you learn throughout the process?
+Reflecting on this project as a whole, I feel proud of my accomplishments, as this was the first interaction I have ever had with user experience design. There were surely a lot of learning curves with learning how to use programs like Github and Figma and with learning the basics of UX design as a whole. However, I think that all of my testing (UT, Contextual Inquiry, Cognitive Walkthrough, Impression Test) went much smoother than expected and I found these parts of the process to be incredibly helpful in creating my own prototype. I ended up revising a lot of my interactive prototype, such as by changing the color scheme, changing the “add” symbol on the homepage, adding more details like real books as examples for different search filters, and making sure that the “go back” buttons worked on the prototype. At the end of all of the revisions, I think that I have reached a place where users are able to access their downloaded material much easier, find the search bar and filters for books much easier, and have more freedom in organizing their downloaded content. Hopefully, this project is a call to action on the greater need for user-friendly applications for senior citizen groups in general. 
