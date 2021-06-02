@@ -57,10 +57,10 @@ These wireframes are my initial graphic designs of what I would want my high-fid
 **(2) Organization of Content**, given the existing features of the app. 
 
 ### Task 1: Navigating the Search Bar 
-![Task 1_Navigating the Seach Bar.jpg](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
+![task 1](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/Task%201_%20Navigating%20the%20Search%20Bar.jpg)
 
 ### Task 2: Organization of Content
-![Task 2_Org of Content](https://raw.githubusercontent.com/laudanhosseini/Final-Project/main/Task%202_%20Org%20of%20Content.jpg) 
+![task 2](
 
 Click [here](https://github.com/laudanhosseini/DH110-05/blob/b74ed02631aee0d28e35f1148ea7da23992ca887/README.md ) for access to the full wireframe sketches as well as a very informal prototype testing for both designs. 
 
